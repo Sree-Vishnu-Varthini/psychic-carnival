@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/sreev/Downloads/HAUFA
+vfull_adder
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1725197222
+!i10b 1
+!s100 _4BiPD1KDWhTM2M@Ke:bM1
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IcVc>zA_?KCIYELc11TOBB3
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1725196195
+8full_adder.sv
+Ffull_adder.sv
+!i122 2
+L0 2 30
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1725197222.000000
+!s107 half_adder.sv|full_adder.sv|full_adder_tb.sv|
+Z7 !s90 -reportprogress|300|full_adder_tb.sv|
+!i113 1
+Z8 tCvgOpt 0
+vfull_adder_tb
+R1
+R2
+!i10b 1
+!s100 7R_Y=_KI]Xo@]]2[dkZ5L2
+R3
+Ik9YOCE4Y1[b;4jbR3ReJn3
+R4
+S1
+R0
+w1725197199
+8full_adder_tb.sv
+Ffull_adder_tb.sv
+!i122 2
+L0 4 37
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 half_adder.sv|full_adder.sv|full_adder_tb.sv|
+R7
+!i113 1
+R8
+vhalf_adder
+R1
+R2
+!i10b 1
+!s100 a`mni?SznHg`240NjL40b3
+R3
+Ilebg_0ooC3dUXNlgc:[?;1
+R4
+S1
+R0
+w1725195833
+8half_adder.sv
+Fhalf_adder.sv
+!i122 2
+L0 1 11
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
